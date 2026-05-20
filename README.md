@@ -101,3 +101,7 @@ CODING_SAMURAI_INTERNSHIP_TASK
 ├── TravelWebsite
 │
 └── README.md
+```
+## 🔗 Live Demo
+[View Portfolio Website](https://portfolio-ten-gamma-83.vercel.app/)
+[View Hidden Trails Of India](https://wadhwaniprakriti962-cmyk.github.io/CODING-SAMURAI-INTERNSHIP-TASK/TravelWebsite/)
