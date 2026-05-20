@@ -2,7 +2,7 @@ let destinations=[
     {
         name:"Tirthan Valley",
         tagline:"Where silence meets the river",
-        image:"../images/tirthan.jpg",
+        image:"images/tirthan.jpg",
         location:"Himachal Pradesh",
         bestTime:"March to June",
         reach:"Via Bhuntar Airport",
@@ -32,7 +32,7 @@ let destinations=[
     {
         name:"Varkala",
         tagline:"Cliffs,waves and sunsets",
-        image:"../images/varkala.jpg",
+        image:"images/varkala.jpg",
         location:"Kerala",
         bestTime:"October to March",
         reach:"Via Trivandrum Airport",
@@ -62,7 +62,7 @@ let destinations=[
     {
         name:"Spiti Valley",
         tagline:"Land of raw beauty",
-        image:"../images/spiti.jpg",    
+        image:"images/spiti.jpg",    
         location:"Himachal Pradesh",
         bestTime:"May to September",
         reach:"Via Manali or Shimla route",
@@ -92,7 +92,7 @@ let destinations=[
     {
         name:"Mandu",
         tagline:"Echoes of timeless history",
-        image:"../images/mandu.jpg",
+        image:"images/mandu.jpg",
         location:"Madhya Pradesh",
         bestTime:"July to March",
         reach:"Via Indore Airport",
